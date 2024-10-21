@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center">Saya sebenernya 2 orang sama kontol 1</p>
+<h1 align="center">GA TAU MAU ISI APA</h1>
 
 ###
 
