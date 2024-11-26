@@ -4,7 +4,8 @@
 
 ###
 
-<h1 align="center">GA TAU MAU ISI APA</h1>
+<h1 align="center">DI PUJI GA TUMBANG</h1>
+<h1 align="center">DI TRANSFER MAKASI BANG</h1>
 
 ###
 
