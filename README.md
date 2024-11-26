@@ -60,7 +60,7 @@
 
 ###
 
-<div align="start">
+<div align="center">
   <img height="200" src="https://i.pinimg.com/564x/3c/84/b4/3c84b47a7f25bbfc4962e4b3abe234b1.jpg"  />
 </div>
 
