@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/DennZaza/count.svg?"  />
-</div>
-
 ###
 
 <h1 align="center">Hi, I'm Dendra De Tama</h1>
