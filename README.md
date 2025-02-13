@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Dendra De Tama</h1>
 <h3 align="center">Front End Developer | UI/UX Designer </h3>
-
+<br>
 ###
 
 <div align="center"> 
