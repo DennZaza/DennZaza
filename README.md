@@ -46,8 +46,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
@@ -76,11 +74,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/3c/84/b4/3c84b47a7f25bbfc4962e4b3abe234b1.jpg"  />
+  <img height="200" src="https://i.pinimg.com/736x/d9/c2/07/d9c207b00c263008ad8976c7f4e333d2.jpg"  />
+  <img width="12" />
+  <img height="200" src="https://i.pinimg.com/736x/de/64/cd/de64cd82bc6e063f49ea15417a733154.jpg"  />
+  <img width="12" />
+  <img height="200" src="https://i.pinimg.com/736x/97/37/bb/9737bb65dfa38bdd467f748c5e3e6bfe.jpg"  />
 </div>
 
 ###
-
-
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yqwlg6gupe67cxxcfmhfdd2zpa&unique={true|1|on|yes})
-<!-- </div> -->
