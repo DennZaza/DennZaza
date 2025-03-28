@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.discordapp.com/attachments/1258204569486229585/1355056116060393543/1024px-Tailwind_CSS_Logo.png?ex=67e789d9&is=67e63859&hm=dbda9a67b7daf802f295808586b10f7fc05b1a45b75046fd7fa22669bf5952dd&" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.discordapp.com/attachments/1258204569486229585/1355056116060393543/1024px-Tailwind_CSS_Logo.png?ex=67e789d9&is=67e63859&hm=dbda9a67b7daf802f295808586b10f7fc05b1a45b75046fd7fa22669bf5952dd&" height="25" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
