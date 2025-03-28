@@ -72,12 +72,3 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/d9/c2/07/d9c207b00c263008ad8976c7f4e333d2.jpg"  />
-  <img width="12" />
-  <img height="200" src="https://i.pinimg.com/736x/de/64/cd/de64cd82bc6e063f49ea15417a733154.jpg"  />
-  <img width="12" />
-  <img height="200" src="https://i.pinimg.com/736x/97/37/bb/9737bb65dfa38bdd467f748c5e3e6bfe.jpg"  />
-</div>
-
-###
